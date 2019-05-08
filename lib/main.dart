@@ -14,10 +14,10 @@
 
 import 'dart:io' show Platform;
 
-import 'package:flutter/foundation.dart'
+import 'package:flutter_web/foundation.dart'
     show debugDefaultTargetPlatformOverride;
-import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/material.dart';
 
 void main() {
   _setTargetPlatformForDesktop();
