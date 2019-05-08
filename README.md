@@ -12,17 +12,13 @@ Fork this project to get started! :)
 
 ## Getting Started - Desktop
 
-1. Update your $PATH
-
-`export ENABLE_FLUTTER_DESKTOP=true`
+1. Update your $PATH `export ENABLE_FLUTTER_DESKTOP=true`
 
 2. Run `flutter run -d macos` || `flutter run -d windows` || `flutter run -d linux`
 
 ## Getting started - Web
 
-1. Update your $PATH
-
-`export FLUTTER_WEB=true`
+1. Update your $PATH `export FLUTTER_WEB=true`
 
 2. Run `flutter packages pub global activate webdev`
 
