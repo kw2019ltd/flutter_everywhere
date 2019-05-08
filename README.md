@@ -2,7 +2,7 @@
 
 ## Flutter Everywhere
 
-The goal of this repo is to have everything you need to start with flutter desktop + mobile simply by forking the project. This will no longer be necessary once `flutter create` supports desktop.
+The goal of this repo is to have everything you need to start with flutter desktop + mobile simply by forking the project. This will no longer be necessary once `flutter create` supports desktop and web.
 
 Fork this project to get started! :)
 
